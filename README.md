@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willribeiron
+- 👋 Hi, I’m Willian Ribeiro
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django Rest Framework
 - 📫 How to reach me: willribeiro.contato@gmail.com
